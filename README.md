@@ -1,6 +1,8 @@
 # sketch-android-assets
 
-Generate Android assets in Sketch.
+Generate Android, Windows Phone and iOS assets in Sketch.
+
+Highlight the artboards you want to export and press the chosen key combo to export.
 
 ## Installation
 
