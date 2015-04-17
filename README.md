@@ -2,7 +2,7 @@
 
 Generate Android, Windows Phone and iOS assets in Sketch.
 
-Highlight the artboards you want to export and press the chosen key combo to export.
+Select the artboards you want to export and press the key combo.
 
 ## Installation
 
